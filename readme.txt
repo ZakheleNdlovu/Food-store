@@ -1,0 +1,1 @@
+This is a practice program for an online store
